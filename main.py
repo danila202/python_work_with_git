@@ -1,2 +1,3 @@
-def hi():
-    return 'Hello'
+from simple.math import mul
+
+mul(1,4)
