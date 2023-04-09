@@ -1,3 +1,5 @@
 from simple.math import mul
 
-mul(1,4)
+if __name__ == "__main__":
+
+    mul(1,3)
